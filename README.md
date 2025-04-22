@@ -81,7 +81,7 @@
 ![iOS 体验](./res/testflight_apple.png)
 
 
-#### Issue Feedback
+#### 问题交流
 - Email: [zhaobai851@gmail.com]
 - WeChat: [Zhao0_ooo]
 
