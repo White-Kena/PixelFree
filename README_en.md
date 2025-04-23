@@ -79,6 +79,6 @@ The current version is compatible with mainstream audio-video platforms, includi
 ![iOS demo](./res/testflight_apple.png)
 
 
-#### Connect me
+#### Issue Feedback
 - Email: [zhaobai851@gmail.com]
 - WeChat: [Zhao0_ooo]
